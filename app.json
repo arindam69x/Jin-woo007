@@ -48,7 +48,7 @@
       },
     "START_MSG": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "⚡Hɪ ᴅᴜᴅᴇ.. {first}\n\nI ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ​\n​​Yᴏᴜ ᴄᴀɴ ᴀᴄᴄᴇꜱꜱ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ ᴘᴏᴡᴇʀᴇᴅ ʙʏ -​ @Anime_X_Hunter"
+      "value": "⚡Hi vro .. {first}\n\nI'm Sung Jin-Woo a file sharing bot ❤️⚡"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
@@ -58,7 +58,7 @@
       "description": "A space separated list of user_ids of Admins, they can only create links",
       "value": "",
       "required": false
-    },
+    }
     "PROTECT_CONTENT": {
       "description": "Protect contents doesn't forward else False",
       "value": "False",
