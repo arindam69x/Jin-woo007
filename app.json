@@ -7,7 +7,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/arindam69x/Jin-woo007",
+  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
@@ -58,7 +58,7 @@
       "description": "A space separated list of user_ids of Admins, they can only create links",
       "value": "",
       "required": false
-    }
+    },
     "PROTECT_CONTENT": {
       "description": "Protect contents doesn't forward else False",
       "value": "False",
@@ -77,4 +77,3 @@
     }
   }
 }
-
